@@ -1,0 +1,124 @@
+2023-11-16 10:24:13 [main] INFO  github.wx.v4.CRV4Application - Starting CRV4Application using Java 1.8.0_181 on LEGION-Ronin with PID 72036 (D:\javaLearning\javaProject\CR-Cache\v4\target\classes started by 25385 in D:\javaLearning\javaProject\CR-Cache)
+2023-11-16 10:24:13 [main] INFO  github.wx.v4.CRV4Application - No active profile set, falling back to default profiles: default
+2023-11-16 10:24:14 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8894"]
+2023-11-16 10:24:14 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-11-16 10:24:14 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.55]
+2023-11-16 10:24:14 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-11-16 10:24:15 [main] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2023-11-16 10:25:33 [main] INFO  github.wx.v4.CRV4Application - Starting CRV4Application using Java 1.8.0_181 on LEGION-Ronin with PID 67928 (D:\javaLearning\javaProject\CR-Cache\v4\target\classes started by 25385 in D:\javaLearning\javaProject\CR-Cache)
+2023-11-16 10:25:33 [main] INFO  github.wx.v4.CRV4Application - No active profile set, falling back to default profiles: default
+2023-11-16 10:25:34 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8894"]
+2023-11-16 10:25:34 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-11-16 10:25:34 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.55]
+2023-11-16 10:25:34 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-11-16 10:25:34 [main] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2023-11-16 10:26:47 [main] INFO  github.wx.v4.CRV4Application - Starting CRV4Application using Java 1.8.0_181 on LEGION-Ronin with PID 70000 (D:\javaLearning\javaProject\CR-Cache\v4\target\classes started by 25385 in D:\javaLearning\javaProject\CR-Cache)
+2023-11-16 10:26:47 [main] INFO  github.wx.v4.CRV4Application - No active profile set, falling back to default profiles: default
+2023-11-16 10:26:48 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8894"]
+2023-11-16 10:26:48 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-11-16 10:26:48 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.55]
+2023-11-16 10:26:48 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-11-16 10:26:48 [main] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2023-11-16 10:27:31 [main] INFO  github.wx.v4.CRV4Application - Starting CRV4Application using Java 1.8.0_181 on LEGION-Ronin with PID 81072 (D:\javaLearning\javaProject\CR-Cache\v4\target\classes started by 25385 in D:\javaLearning\javaProject\CR-Cache)
+2023-11-16 10:27:31 [main] INFO  github.wx.v4.CRV4Application - No active profile set, falling back to default profiles: default
+2023-11-16 10:27:32 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8894"]
+2023-11-16 10:27:32 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-11-16 10:27:32 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.55]
+2023-11-16 10:27:32 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-11-16 10:27:33 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8894"]
+2023-11-16 10:27:33 [main] INFO  github.wx.v4.CRV4Application - Started CRV4Application in 2.126 seconds (JVM running for 2.846)
+2023-11-16 10:27:50 [main] INFO  github.wx.v4.CRV4Application - Starting CRV4Application using Java 1.8.0_181 on LEGION-Ronin with PID 80160 (D:\javaLearning\javaProject\CR-Cache\v4\target\classes started by 25385 in D:\javaLearning\javaProject\CR-Cache)
+2023-11-16 10:27:50 [main] INFO  github.wx.v4.CRV4Application - No active profile set, falling back to default profiles: default
+2023-11-16 10:27:51 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8894"]
+2023-11-16 10:27:51 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-11-16 10:27:51 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.55]
+2023-11-16 10:27:51 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-11-16 10:27:52 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8894"]
+2023-11-16 10:27:52 [main] INFO  github.wx.v4.CRV4Application - Started CRV4Application in 2.029 seconds (JVM running for 2.727)
+2023-11-16 10:43:23 [http-nio-8894-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-11-16 10:43:23 [http-nio-8894-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - MyHikariCP - Starting...
+2023-11-16 10:43:23 [http-nio-8894-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - MyHikariCP - Start completed.
+2023-11-16 10:44:49 [main] INFO  github.wx.v4.CRV4Application - Starting CRV4Application using Java 1.8.0_181 on LEGION-Ronin with PID 61424 (D:\javaLearning\javaProject\CR-Cache\v4\target\classes started by 25385 in D:\javaLearning\javaProject\CR-Cache)
+2023-11-16 10:44:49 [main] INFO  github.wx.v4.CRV4Application - No active profile set, falling back to default profiles: default
+2023-11-16 10:44:50 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8894"]
+2023-11-16 10:44:50 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-11-16 10:44:50 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.55]
+2023-11-16 10:44:50 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-11-16 10:44:51 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8894"]
+2023-11-16 10:44:51 [main] INFO  github.wx.v4.CRV4Application - Started CRV4Application in 2.135 seconds (JVM running for 2.874)
+2023-11-16 10:44:54 [http-nio-8894-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-11-16 10:44:54 [http-nio-8894-exec-2] INFO  g.w.v4.service.impl.OrderServiceImpl - get data from database
+2023-11-16 10:44:54 [http-nio-8894-exec-2] INFO  com.zaxxer.hikari.HikariDataSource - MyHikariCP - Starting...
+2023-11-16 10:44:55 [http-nio-8894-exec-2] INFO  com.zaxxer.hikari.HikariDataSource - MyHikariCP - Start completed.
+2023-11-16 10:45:59 [http-nio-8894-exec-5] INFO  g.w.v4.service.impl.OrderServiceImpl - get data from database
+2023-11-16 10:46:11 [http-nio-8894-exec-6] INFO  g.w.v4.service.impl.OrderServiceImpl - get data from database
+2023-11-16 10:46:25 [http-nio-8894-exec-7] INFO  g.w.v4.service.impl.OrderServiceImpl - get data from database
+2023-11-16 10:46:29 [http-nio-8894-exec-8] INFO  g.w.v4.service.impl.OrderServiceImpl - get data from database
+2023-11-16 10:47:26 [main] INFO  github.wx.v4.CRV4Application - Starting CRV4Application using Java 1.8.0_181 on LEGION-Ronin with PID 66412 (D:\javaLearning\javaProject\CR-Cache\v4\target\classes started by 25385 in D:\javaLearning\javaProject\CR-Cache)
+2023-11-16 10:47:26 [main] INFO  github.wx.v4.CRV4Application - No active profile set, falling back to default profiles: default
+2023-11-16 10:47:27 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8894"]
+2023-11-16 10:47:27 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-11-16 10:47:27 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.55]
+2023-11-16 10:47:27 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-11-16 10:47:28 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8894"]
+2023-11-16 10:47:28 [main] INFO  github.wx.v4.CRV4Application - Started CRV4Application in 2.229 seconds (JVM running for 2.966)
+2023-11-16 10:47:32 [http-nio-8894-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-11-16 10:47:33 [http-nio-8894-exec-1] INFO  g.w.v4.service.impl.OrderServiceImpl - get data from database
+2023-11-16 10:47:33 [http-nio-8894-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - MyHikariCP - Starting...
+2023-11-16 10:47:33 [http-nio-8894-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - MyHikariCP - Start completed.
+2023-11-16 10:47:38 [http-nio-8894-exec-3] INFO  github.wx.v4.cache.DoubleCache - get data from caffeine
+2023-11-16 10:47:45 [main] INFO  github.wx.v4.CRV4Application - Starting CRV4Application using Java 1.8.0_181 on LEGION-Ronin with PID 58136 (D:\javaLearning\javaProject\CR-Cache\v4\target\classes started by 25385 in D:\javaLearning\javaProject\CR-Cache)
+2023-11-16 10:47:45 [main] INFO  github.wx.v4.CRV4Application - No active profile set, falling back to default profiles: default
+2023-11-16 10:47:46 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8894"]
+2023-11-16 10:47:46 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-11-16 10:47:46 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.55]
+2023-11-16 10:47:46 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-11-16 10:47:47 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8894"]
+2023-11-16 10:47:47 [main] INFO  github.wx.v4.CRV4Application - Started CRV4Application in 2.173 seconds (JVM running for 2.877)
+2023-11-16 10:47:50 [http-nio-8894-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-11-16 10:47:50 [http-nio-8894-exec-1] INFO  github.wx.v4.cache.DoubleCache - get data from redis
+2023-11-16 10:48:05 [http-nio-8894-exec-3] INFO  github.wx.v4.cache.DoubleCache - get data from caffeine
+2023-11-16 10:48:47 [main] INFO  github.wx.v4.CRV4Application - Starting CRV4Application using Java 1.8.0_181 on LEGION-Ronin with PID 74912 (D:\javaLearning\javaProject\CR-Cache\v4\target\classes started by 25385 in D:\javaLearning\javaProject\CR-Cache)
+2023-11-16 10:48:47 [main] INFO  github.wx.v4.CRV4Application - No active profile set, falling back to default profiles: default
+2023-11-16 10:48:48 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8894"]
+2023-11-16 10:48:48 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-11-16 10:48:48 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.55]
+2023-11-16 10:48:48 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-11-16 10:48:49 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8894"]
+2023-11-16 10:48:49 [main] INFO  github.wx.v4.CRV4Application - Started CRV4Application in 2.169 seconds (JVM running for 2.945)
+2023-11-16 10:48:52 [http-nio-8894-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-11-16 10:48:53 [http-nio-8894-exec-2] INFO  github.wx.v4.cache.DoubleCache - get data from redis
+2023-11-16 10:48:58 [http-nio-8894-exec-3] INFO  g.w.v4.service.impl.OrderServiceImpl - get data from database
+2023-11-16 10:48:58 [http-nio-8894-exec-3] INFO  com.zaxxer.hikari.HikariDataSource - MyHikariCP - Starting...
+2023-11-16 10:48:58 [http-nio-8894-exec-3] INFO  com.zaxxer.hikari.HikariDataSource - MyHikariCP - Start completed.
+2023-11-16 11:58:39 [main] INFO  github.wx.v4.CRV4Application - Starting CRV4Application using Java 1.8.0_181 on LEGION-Ronin with PID 81716 (D:\javaLearning\javaProject\CR-Cache\v4\target\classes started by 25385 in D:\javaLearning\javaProject\CR-Cache)
+2023-11-16 11:58:39 [main] INFO  github.wx.v4.CRV4Application - No active profile set, falling back to default profiles: default
+2023-11-16 11:58:39 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8894"]
+2023-11-16 11:58:39 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-11-16 11:58:39 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.55]
+2023-11-16 11:58:39 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-11-16 11:58:41 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8894"]
+2023-11-16 11:58:41 [main] INFO  github.wx.v4.CRV4Application - Started CRV4Application in 2.871 seconds (JVM running for 3.62)
+2023-11-16 11:59:22 [main] INFO  github.wx.v4.CRV4Application - Starting CRV4Application using Java 1.8.0_181 on LEGION-Ronin with PID 81176 (D:\javaLearning\javaProject\CR-Cache\v4\target\classes started by 25385 in D:\javaLearning\javaProject\CR-Cache)
+2023-11-16 11:59:22 [main] INFO  github.wx.v4.CRV4Application - No active profile set, falling back to default profiles: default
+2023-11-16 11:59:23 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8895"]
+2023-11-16 11:59:23 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-11-16 11:59:23 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.55]
+2023-11-16 11:59:23 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-11-16 11:59:24 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8895"]
+2023-11-16 11:59:25 [main] INFO  github.wx.v4.CRV4Application - Started CRV4Application in 2.876 seconds (JVM running for 3.643)
+2023-11-16 11:59:41 [http-nio-8894-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-11-16 11:59:41 [http-nio-8894-exec-2] INFO  g.w.v4.service.impl.OrderServiceImpl - get data from database
+2023-11-16 11:59:41 [http-nio-8894-exec-2] INFO  com.zaxxer.hikari.HikariDataSource - MyHikariCP - Starting...
+2023-11-16 11:59:41 [http-nio-8894-exec-2] INFO  com.zaxxer.hikari.HikariDataSource - MyHikariCP - Start completed.
+2023-11-16 11:59:41 [container-2] INFO  g.wx.v4.msg.RedisMessageReceiver - CacheMessage(cacheName=order, type=UPDATE, key=1, value=Order(id=1, orderNumber=1, money=1.0, status=1), msgSource=192.168.56.1:8894)
+2023-11-16 11:59:41 [container-2] INFO  g.wx.v4.msg.RedisMessageReceiver - 收到本机发出的消息，不做处理
+2023-11-16 11:59:41 [container-2] INFO  g.wx.v4.msg.RedisMessageReceiver - CacheMessage(cacheName=order, type=UPDATE, key=1, value=Order(id=1, orderNumber=1, money=1.0, status=1), msgSource=192.168.56.1:8894)
+2023-11-16 11:59:41 [container-2] INFO  g.wx.v4.msg.RedisMessageReceiver - 更新本地缓存
+2023-11-16 12:00:20 [http-nio-8894-exec-3] INFO  g.w.v4.service.impl.OrderServiceImpl - update order data
+2023-11-16 12:00:20 [container-3] INFO  g.wx.v4.msg.RedisMessageReceiver - CacheMessage(cacheName=order, type=UPDATE, key=2, value=Order(id=2, orderNumber=2222, money=2222.0, status=2222), msgSource=192.168.56.1:8894)
+2023-11-16 12:00:20 [container-3] INFO  g.wx.v4.msg.RedisMessageReceiver - CacheMessage(cacheName=order, type=UPDATE, key=2, value=Order(id=2, orderNumber=2222, money=2222.0, status=2222), msgSource=192.168.56.1:8894)
+2023-11-16 12:00:20 [container-3] INFO  g.wx.v4.msg.RedisMessageReceiver - 收到本机发出的消息，不做处理
+2023-11-16 12:00:20 [container-3] INFO  g.wx.v4.msg.RedisMessageReceiver - 更新本地缓存
+2023-11-16 12:00:34 [http-nio-8895-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-11-16 12:00:34 [http-nio-8895-exec-2] INFO  github.wx.v4.cache.DoubleCache - get data from caffeine
